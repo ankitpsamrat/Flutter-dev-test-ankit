@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testing/addString/add_string.dart';
+import 'package:razorpay_gateway/addString/add_string.dart';
 
 void main() {
   runApp(const MyApp());
